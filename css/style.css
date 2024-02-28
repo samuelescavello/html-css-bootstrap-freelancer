@@ -23,3 +23,17 @@
 #portfolio-nav a.nav-link:hover{
     color: #1abc9c;
 }
+
+.img-cont{
+    max-width: 300px;
+}
+
+.ss-bord{
+    width: 50px;
+    border: 1px solid white;
+}
+
+.ss-bord-dark{
+    width: 50px;
+    border: 1px solid black;
+}
